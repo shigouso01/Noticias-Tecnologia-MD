@@ -32,7 +32,7 @@ def graficar_clusters(X, labels, nombre_salida="outputs/clusters.png"):
 
 
 if __name__ == "__main__":
-    documentos, nombres = cargar_corpus()
+    documentos, nombres = cargar_corpus() # usar "../data/docs" cuando se ejecute jupyter notebook
     print(f"Se cargaron {len(documentos)} documentos")
 
     corpus_procesado = [preprocesar_texto(texto) for texto in documentos]
@@ -48,3 +48,4 @@ if __name__ == "__main__":
     graficar_clusters(X, labels)
     print("Gráfico guardado en outputs/clusters.png")
     
+# %%
