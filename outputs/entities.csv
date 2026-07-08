@@ -1,0 +1,34 @@
+documento,entidad,tipo,contexto
+1.txt,Microsoft,ORG,Microsoft presentó una nueva actualización de
+1.txt,Según Microsoft,PERSON,"corrige vulnerabilidades detectadas previamente. Según Microsoft, esta actualización forma parte"
+10.txt,Sony,ORG,Sony dio a conocer innovaciones en
+10.txt,Sony,ORG,en el propio sensor. Sony señaló que esta combinación entre
+11.txt,Tesla,PERSON,Tesla implementó una actualización de software
+11.txt,Tesla,PERSON,software en constante evolución. Tesla explicó que las actualizaciones de
+13.txt,IBM,ORG,IBM desarrolló un sistema de computación
+13.txt,IBM,ORG,estabilidad de los qubits. IBM explicó que este nuevo componente
+14.txt,Cisco,ORG,Cisco anunció soluciones de ciberseguridad que
+14.txt,Cisco,ORG,puedan comprometer información sensible. Cisco señaló que su nueva plataforma
+16.txt,Dell,ORG,Dell lanzó una línea de computadoras
+16.txt,Dell,ORG,resistencia del equipo físico. Dell destacó que estas laptops incorporan
+17.txt,HP,ORG,HP introdujo impresoras inteligentes capaces de
+17.txt,HP,ORG,"es momento de reemplazarlos. HP explicó que estas impresoras,"
+18.txt,Analistas,PERSON,costos de infraestructura propia. Analistas del sector señalan que esta
+19.txt,Lenovo,ORG,Lenovo renovó su catálogo de equipos
+19.txt,Lenovo,ORG,estaciones de trabajo físicas. Lenovo explicó que los nuevos componentes
+2.txt,Google,ORG,Google anunció avances significativos en sus
+20.txt,Qualcomm,ORG,Qualcomm presentó un nuevo chip para
+20.txt,Qualcomm,ORG,duración de la batería. Qualcomm destacó que este nuevo procesador
+3.txt,Apple,ORG,Apple reveló una nueva generación de
+3.txt,Apple,ORG,energético del dispositivo físico. Apple destacó que esta actualización de
+33.txt,Analistas,PERSON,edición automática de fotografías. Analistas del sector explicaron que esta
+34.txt,Empresas,LOC,software en la nube. Empresas de distintos sectores han migrado
+34.txt,Analistas,PERSON,construcción de nueva infraestructura. Analistas explicaron que este crecimiento en
+4.txt,OpenAI,ORG,OpenAI lanzó nuevas funciones para sus
+5.txt,Samsung,ORG,Samsung presentó una pantalla OLED de
+5.txt,Samsung,ORG,televisores y teléfonos inteligentes. Samsung explicó que la nueva tecnología
+6.txt,NVIDIA,ORG,NVIDIA sorprendió al mercado con una
+6.txt,NVIDIA,ORG,gráfica en tiempo real. NVIDIA señaló que este nuevo componente
+8.txt,Meta,LOC,Meta anunció nuevas herramientas de software
+9.txt,Intel,ORG,Intel presentó un nuevo procesador con
+9.txt,Intel,ORG,dentro de servidores empresariales. Intel explicó que el nuevo chip

@@ -1,0 +1,5 @@
+documento,entidad_1,tipo_1,entidad_2,tipo_2,relacion,oracion
+1.txt,Microsoft,ORG,Windows,MISC,presentar,Microsoft presentó una nueva actualización de software para Windows que mejora el rendimiento del sistema operativo y refuerza la seguridad contra amenazas digitales.
+15.txt,Adobe,MISC,IA,MISC,explicar,"Adobe explicó que sus modelos de IA fueron entrenados con millones de imágenes para reconocer patrones estéticos, integrando así la inteligencia artificial generativa directamente en el flujo de trabajo creativo de sus usuarios."
+33.txt,Los fabricantes han incorporado modelos,MISC,IA,MISC,incorporar,"Los fabricantes han incorporado modelos de IA directamente en el sistema operativo de los teléfonos, permitiendo funciones como traducción instantánea y edición automática de fotografías."
+6.txt,NVIDIA,ORG,IA,MISC,señalar,NVIDIA señaló que este nuevo componente físico está pensado tanto para centros de datos dedicados a IA como para consumidores que buscan el hardware gráfico más avanzado del mercado actual.
